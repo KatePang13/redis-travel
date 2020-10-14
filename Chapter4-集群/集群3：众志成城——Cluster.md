@@ -2,10 +2,6 @@
 
 RedisCluster 是 Redis 的亲儿子，它是 Redis 作者自己提供的 Redis 集群化方案。
 
-
-
-![img](http://reader.epubee.com/books/mobile/5d/5d739b181259ed5bcb1dffd6f05bddd7/Image00091.jpg)
-
 ![img](http://reader.epubee.com/books/mobile/5d/5d739b181259ed5bcb1dffd6f05bddd7/Image00093.jpg)
 
 
